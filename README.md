@@ -1,6 +1,6 @@
 # Tax
 
-Based on the provided sources, here is an additional column for the United Kingdom (UK) to the comparison table of the tax systems in Guernsey, Jersey, and the Isle of Man:
+The comparison table of the tax systems in Guernsey, Jersey, the Isle of Man, and the United Kingdom:
 
 | Aspect                   | Guernsey                                  | Jersey                                    | Isle of Man                               | United Kingdom                            |
 |--------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
